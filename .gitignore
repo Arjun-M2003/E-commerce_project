@@ -1,3 +1,6 @@
 data/
 .vscode
 docs/
+mysql-connector-c++-9.3.0-winx64/
+mysql-connector-c++-9.3.0-winx64.zip
+build/
